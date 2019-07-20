@@ -157,6 +157,16 @@
           <artifactId>taglist-maven-plugin</artifactId>
           <version>2.4</version>
         </plugin>
+               
+        <plugin>
+            <groupId>org.wildfly.plugins</groupId>
+            <artifactId>wildfly-maven-plugin</artifactId>
+            <version>${version.wildfly.maven.plugin}</version>
+
+             <configuration>
+                <port>9990</port>
+            </configuration>
+    </plugin>
 
         <plugin>
           <groupId>org.mortbay.jetty</groupId>
