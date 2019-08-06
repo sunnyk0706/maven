@@ -1,3 +1,7 @@
+again added a new line1
+
+this line is for merge --squash test
+
 modifying to check branch us3001 in git
 
 added this line in README file
