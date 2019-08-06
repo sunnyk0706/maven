@@ -1,3 +1,5 @@
+adding for merge conflict123
+
 again added a new line1
 
 this line is for merge --squash test
